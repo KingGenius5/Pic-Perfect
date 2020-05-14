@@ -1,0 +1,35 @@
+.setting {
+    color: '#ffffff';
+    background-color: '#044f62';
+    border-bottom: 1px solid #F4AF1B;
+    padding: 10px 15px;
+    letter-spacing: 2.5px;
+}
+
+input {
+    width: 100%;
+}
+
+.labels {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.label {
+    width: 50%;
+}
+
+.label-left {
+    min-width: 100px;
+    text-align: left;
+}
+
+.label-right {
+    min-width: 100px;
+    text-align: right;
+}
+
+.range-field {
+    text-align: center;
+}
