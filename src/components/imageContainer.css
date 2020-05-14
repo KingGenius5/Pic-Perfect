@@ -1,0 +1,35 @@
+canvas {
+    background-color: rgba(249, 249, 249, 0.5);
+    width: 100%;
+    margin: 20px 0;
+    border: 10px double #00154F;
+}
+
+.save {
+    display: inline-block;
+    padding: 10px 5px 5px;
+    background-color: #F2BC94;
+    background-color: #00154F;
+    color: #F2BC94;
+    font-weight: bold;
+    text-decoration: none;
+    height: 24px;
+    width: 80px;
+    text-align: center;
+    box-shadow: 2px 3px 5px 1px rgba(0, 0, 0, 0.2);
+
+}
+
+.save:hover {
+    color: #00154F;
+    background-color: #F2BC94;
+}
+
+input[type='file'] {
+    padding: 8px;
+    margin: 10px 35px;
+    color: #00154F;
+    width: 50%;
+    border: 5px solid #00154F;
+    /*border-radius: 3px;*/
+}
