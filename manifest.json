@@ -1,0 +1,20 @@
+{
+  "short_name": "Filter Rush",
+  "name": "Filter Rush",
+  "icons": [
+    {
+      "src": "filter192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+    "src": "filter_rush.png",
+    "sizes": "256x256",
+    "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#044f62"
+}
