@@ -1,7 +1,5 @@
 # Picture Perfect Playground Alliteration
 
-#### PPP Alliteration or Pic-Perfect give the user access to the wide world of photo filters and editing techniques.
-
 Live Page: [PPP Alliteration](http://picperfect.art/)
 
 ![Home page of PPP Alliteration.](https://github.com/KingGenius5/Pic-Perfect/blob/master/Home_Page.png?raw=true)
