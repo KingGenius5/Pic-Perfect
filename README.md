@@ -1,7 +1,5 @@
 # Picture Perfect Playground Alliteration
 
-Live Page: [PPP Alliteration](http://picperfect.art/)
-
 ![Home page of PPP Alliteration.](https://github.com/KingGenius5/Pic-Perfect/blob/master/Home_Page.png?raw=true)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
