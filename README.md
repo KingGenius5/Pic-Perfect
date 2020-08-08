@@ -1,5 +1,7 @@
 # Picture Perfect Playground Alliteration
 
+Needs more documentation...
+
 Picture Perfect is great for amateur artists trying to add filters to their artwork.
 
 ![Home page of PPP Alliteration.](https://github.com/KingGenius5/Pic-Perfect/blob/master/Home_Page.png?raw=true)
